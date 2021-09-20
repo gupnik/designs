@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   fill="none"
+   version="1.1"
+   id="svg1493"
+   sodipodi:docname="Ellipse.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata1499">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1497" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="773"
+     id="namedview1495"
+     showgrid="false"
+     inkscape:zoom="4.0417602"
+     inkscape:cx="-17.19306"
+     inkscape:cy="56.379286"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1493" />
+  <path
+     d="M 19.909998,7.5976892 C 25.57554,4.3702312 31.992872,2.6400045 38.539896,2.5747473 45.086919,2.5094903 51.541423,4.111415 57.277697,7.2252261 63.013971,10.338996 67.837303,14.859042 71.280158,20.34709 c 3.442855,5.488047 5.388324,11.757926 5.647871,18.201624 0.259547,6.443801 -1.175782,12.842836 -4.166643,18.576743 C 69.770628,62.859363 65.325605,67.733637 59.85742,71.2757 54.389235,74.817764 48.083337,76.907415 41.551236,77.342017 35.019135,77.776722 28.4823,76.541558 22.574604,73.756421"
+     stroke="#f7df1e"
+     stroke-width="5.14566"
+     id="path1491" />
+</svg>
