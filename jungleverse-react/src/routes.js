@@ -6,10 +6,10 @@ export default function Routes() {
   return (
     <HashRouter>
       <Switch>
-        <Route exact path="/">
+        <Route path="/v1">
           <IndexPage></IndexPage>
         </Route>
-        <Route path="/v2">
+        <Route exact path="/">
           <IndexPageV2></IndexPageV2>
         </Route>
       </Switch>
