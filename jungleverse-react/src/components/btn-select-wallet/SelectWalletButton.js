@@ -10,13 +10,13 @@ import { useWallet } from "@solana/wallet-adapter-react";
 
 import { useWalletDialog } from "@solana/wallet-adapter-material-ui";
 
-const config = new anchor.web3.PublicKey("B2vJUSDeLnSHFZrrB697X546aCDkDJLCuaJmm4Qx3RL8");
+const config = new anchor.web3.PublicKey("DCURcduJfrwwAVDNcXQ1fNJurhR67bHbBM45XGGdSTM9");
 
-const candyMachineId = new anchor.web3.PublicKey("2ujqBwvfyDstnKtnngad6BbsB8QnpYSmLz9pHJ2GENUp");
+const candyMachineId = new anchor.web3.PublicKey("DshxNHJFUd3LRxovXWYRHcxKyAruQaVDFnjkqgVQKaRv");
 
-const treasury = new anchor.web3.PublicKey("7fCPrREnGs86StF2md8gouxg8rELhKH15fsVnxyuADjP");
+const treasury = new anchor.web3.PublicKey("CeEmTCe16s7PzpCWB7u2BWJL96evhPFj5nT8E8VUkioQ");
 
-const isMainnet = false;
+const isMainnet = true;
 
 const rpcHost = isMainnet ? `https://api.mainnet-beta.solana.com/` : `https://api.devnet.solana.com/`;
 const connection = new anchor.web3.Connection(rpcHost);
@@ -68,6 +68,7 @@ export default function SelectWalletButton({ children }) {
           candyMachineId,
           connection
         );
+      // console.log(goLiveDate, itemsRemaining);
       setItemsRemaining(itemsRemaining);
       setCandyMachine(candyMachine);
     })();
